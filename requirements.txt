@@ -1,0 +1,6 @@
+streamlit
+langchain
+google-generativeai
+openai
+langchain-google-genai
+
